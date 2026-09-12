@@ -1,0 +1,7 @@
+ms-swift==4.5.3
+torch==2.3.1
+transformers
+modelscope
+datasets
+accelerate
+peft
